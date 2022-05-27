@@ -1,5 +1,4 @@
 This UI is still update
-If can
 
 <h1>Start</h1>
 Yarn dev
@@ -7,9 +6,7 @@ Yarn dev
 </br>
 </br>
 <h4>Pratice Build Dashboard Crypro</h4>
-</br>
-<h4>if possible . You can pratice with me to improve it.</h4>
-<br/>
+<h4>If possible . You can pratice with me to improve it.</h4>
 UI: https://dribbble.com/shots/16469084-Crypto-Dashboard/attachments/11234299?mode=media
 
 <p align="center">
