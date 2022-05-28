@@ -13,7 +13,6 @@
     "@types/antd": "^1.0.0",
     "@types/styled-components": "^5.1.25",
     "antd": "^4.20.6",
-    "babel-plugin-styled-components": "^2.0.7",
     "chart.js": "^3.8.0",
     "next": "12.1.6",
     "react": "18.1.0",
